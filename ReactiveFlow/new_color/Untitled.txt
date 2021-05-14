@@ -1,0 +1,8 @@
+c_tce_ini 0.3816 mol/m^3, 0.05g/L, TCE initial
+c_inject_np 35.7 mol/m^3, 2g/L nZVI
+u_inject 5e-5 m/s, injection rate
+u_inject_high 0.000530516 m/s, high injection rate
+k_sa 8.0e-10 m^3/mol*s, kinetic constant
+K_det 0.06 1/s, Detachement coefficient
+R_max 0.1 kg/kg, maximum retention
+K_att 3.5e-3 1/s, Attachement coefficient
